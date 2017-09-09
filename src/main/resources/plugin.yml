@@ -1,0 +1,6 @@
+name: BedWarsStats
+version: ${project.version}
+author: Simonsator
+depends: [Clans]
+main: de.simonsator.bedwarsstatsrel.BedWarsStatMain
+description: Provides stats for clans for BedWarsReloaded
